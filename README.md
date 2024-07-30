@@ -27,7 +27,7 @@ La aplicación ha sido dockerizada (Dockerfile) y desplegada en Azure mediante s
 ## Instalación
 1. Clona este repositorio:
    ```
-   git clone https://github.com/joserodr68/autogen_web_scraper
+   git clone https://github.com/AI-School-F5-P3/jose_webscraper
 
     ```
 2. Instala las dependencias:
